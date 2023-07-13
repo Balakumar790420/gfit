@@ -1,0 +1,20 @@
+
+  .container{
+    margin-bottom: 2vh;
+    padding: 2rem;
+    flex-wrap: wrap;
+  }
+  .card{
+    align-items: center;
+    margin-top: 10vh;
+    box-sizing: border-box;
+    font-family: 'Permanent Marker', cursive;
+  }
+  
+  .card {
+    flex: 0 0 calc(33.33% - 20px);
+    margin: 10px;
+  }
+  .Card.Body{
+    background-color: #ff6969;
+  }

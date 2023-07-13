@@ -1,0 +1,28 @@
+.nav{
+  font-size: 10rem;
+  
+}
+.navbar-logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-logo img {
+    width: 10vw; /* Default size for the logo */
+  }
+  
+  @media (max-width: 768px) {
+    /* Adjust the logo size for smaller screens */
+    .navbar-logo img {
+      width: 15vw;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    /* Adjust the logo size for even smaller screens */
+    .navbar-logo img {
+      width: 25vw;
+    }
+  }
+  
+  
