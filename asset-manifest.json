@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/%20//Balakumar790420.github.io/gfit/static/css/main.b8233afe.chunk.css",
-    "main.js": "/%20//Balakumar790420.github.io/gfit/static/js/main.a790dbf9.chunk.js",
-    "main.js.map": "/%20//Balakumar790420.github.io/gfit/static/js/main.a790dbf9.chunk.js.map",
-    "runtime-main.js": "/%20//Balakumar790420.github.io/gfit/static/js/runtime-main.c38f6c14.js",
-    "runtime-main.js.map": "/%20//Balakumar790420.github.io/gfit/static/js/runtime-main.c38f6c14.js.map",
-    "static/css/2.00ea24e1.chunk.css": "/%20//Balakumar790420.github.io/gfit/static/css/2.00ea24e1.chunk.css",
-    "static/js/2.57537422.chunk.js": "/%20//Balakumar790420.github.io/gfit/static/js/2.57537422.chunk.js",
-    "static/js/2.57537422.chunk.js.map": "/%20//Balakumar790420.github.io/gfit/static/js/2.57537422.chunk.js.map",
-    "static/js/3.27f3baa6.chunk.js": "/%20//Balakumar790420.github.io/gfit/static/js/3.27f3baa6.chunk.js",
-    "static/js/3.27f3baa6.chunk.js.map": "/%20//Balakumar790420.github.io/gfit/static/js/3.27f3baa6.chunk.js.map",
-    "index.html": "/%20//Balakumar790420.github.io/gfit/index.html",
-    "static/css/2.00ea24e1.chunk.css.map": "/%20//Balakumar790420.github.io/gfit/static/css/2.00ea24e1.chunk.css.map",
-    "static/css/main.b8233afe.chunk.css.map": "/%20//Balakumar790420.github.io/gfit/static/css/main.b8233afe.chunk.css.map",
-    "static/js/2.57537422.chunk.js.LICENSE.txt": "/%20//Balakumar790420.github.io/gfit/static/js/2.57537422.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/%20//Balakumar790420.github.io/gfit/static/media/banner.65645667.jpeg",
-    "static/media/logo.88d60379.png": "/%20//Balakumar790420.github.io/gfit/static/media/logo.88d60379.png",
-    "static/media/styles.css": "/%20//Balakumar790420.github.io/gfit/static/media/revicons.e8746a62.woff"
+    "main.css": "/gfitofficial/static/css/main.f48211ea.chunk.css",
+    "main.js": "/gfitofficial/static/js/main.a790dbf9.chunk.js",
+    "main.js.map": "/gfitofficial/static/js/main.a790dbf9.chunk.js.map",
+    "runtime-main.js": "/gfitofficial/static/js/runtime-main.e27f5393.js",
+    "runtime-main.js.map": "/gfitofficial/static/js/runtime-main.e27f5393.js.map",
+    "static/css/2.7950091e.chunk.css": "/gfitofficial/static/css/2.7950091e.chunk.css",
+    "static/js/2.57537422.chunk.js": "/gfitofficial/static/js/2.57537422.chunk.js",
+    "static/js/2.57537422.chunk.js.map": "/gfitofficial/static/js/2.57537422.chunk.js.map",
+    "static/js/3.27f3baa6.chunk.js": "/gfitofficial/static/js/3.27f3baa6.chunk.js",
+    "static/js/3.27f3baa6.chunk.js.map": "/gfitofficial/static/js/3.27f3baa6.chunk.js.map",
+    "index.html": "/gfitofficial/index.html",
+    "static/css/2.7950091e.chunk.css.map": "/gfitofficial/static/css/2.7950091e.chunk.css.map",
+    "static/css/main.f48211ea.chunk.css.map": "/gfitofficial/static/css/main.f48211ea.chunk.css.map",
+    "static/js/2.57537422.chunk.js.LICENSE.txt": "/gfitofficial/static/js/2.57537422.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/gfitofficial/static/media/banner.65645667.jpeg",
+    "static/media/logo.88d60379.png": "/gfitofficial/static/media/logo.88d60379.png",
+    "static/media/styles.css": "/gfitofficial/static/media/revicons.e8746a62.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c38f6c14.js",
-    "static/css/2.00ea24e1.chunk.css",
+    "static/js/runtime-main.e27f5393.js",
+    "static/css/2.7950091e.chunk.css",
     "static/js/2.57537422.chunk.js",
-    "static/css/main.b8233afe.chunk.css",
+    "static/css/main.f48211ea.chunk.css",
     "static/js/main.a790dbf9.chunk.js"
   ]
 }
