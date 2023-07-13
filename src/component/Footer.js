@@ -29,7 +29,7 @@ function ImgOverlayExample() {
               <h1 style={{ fontSize: '2.5rem', color: '#2b3035', marginBottom: '1.5vh', marginLeft: '3vw' }}>Follow Us</h1>
               <div style={{ fontSize: '1rem', color: '#2b3035', marginLeft: '4vw' }}>
                 <a href='https://instagram.com/fit_with_gowtham?igshid=YmM0MjE2YWMzOA=='><ImInstagram style={{ fontSize: '1.5rem', color: '#2b3035',marginBottom: '1.5vh' }} /></a>
-                <a href=''><AiFillFacebook style={{ fontSize: '1.5rem', color: '#2b3035', marginLeft: '1rem',marginBottom: '1.5vh' }} /></a>
+                <a href='https://instagram.com/fit_with_gowtham?igshid=YmM0MjE2YWMzOA=='><AiFillFacebook style={{ fontSize: '1.5rem', color: '#2b3035', marginLeft: '1rem',marginBottom: '1.5vh' }} /></a>
               </div>
             </div>
             <div style={{ marginLeft: '1rem'}}>
